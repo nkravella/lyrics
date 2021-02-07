@@ -1,13 +1,13 @@
-# Translation Notes for *Kannodu Kanbathellam* (1998)
+# Translation Notes for "Kannodu Kanbathellam" from *Jeans* (1998)
 
 > Translated from Tamil by Neha Ravella for English 794.
 
-> Time-stamps from music video: https://www.youtube.com/watch?v=HnW2737FkW8
+> Time-stamps derived from music video: https://www.youtube.com/watch?v=HnW2737FkW8
 
 Tamil lyrics are written out in English, numbered, and *italicized*.
 Line translation follows and is in **bold**.
 
-**A few terms:**
+**A few music theory terms:**
 
     Sapthaka ('saptha' = 7 + notes): sa ri ga ma pa dha ni (Latin --> do re mi fa so la ti).
 
