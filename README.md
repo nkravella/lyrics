@@ -32,7 +32,6 @@ thagra = tha + ga + ra; thagradhim = thagra + dhim; thagajham = tha + ga + jham
     - announce / keep up the time signature (i.e. "taal" in Hindi, "thalam" in Tamil and Telugu)
 
 Note that is a very classical / carnatic way of singing; represents classical music.
-Additional refs: https://raag-hindustani.com/Rhythm.html
 
 ------
 
@@ -128,7 +127,7 @@ Additional refs: https://raag-hindustani.com/Rhythm.html
 
 22 *Andril paravai*
 
-**The 'Andril' bird** (ibis crane; demoiselle crane; a reference to the bird in Ramayana that doesn't exist without its twin) ref[https://groups.google.com/g/tiruvalluvar/c/ppzpjKs1AG8?pli=1]
+**The 'Andril' bird** (ibis crane; demoiselle crane; a reference to the bird in Ramayana that doesn't exist without its twin)
 
 23 *Rettai piravi*
 
@@ -197,3 +196,13 @@ Additional refs: https://raag-hindustani.com/Rhythm.html
 ### Carnatic Bridge (3:58 to 4:32)
 
 ### Back to Verse 1 (4:33 to 5:07)
+
+-----
+
+### Additional references
+
+https://www.kennedy-center.org/education/resources-for-educators/classroom-resources/media-and-interactives/media/international/rhythm-and-raga/
+
+https://raag-hindustani.com/Rhythm.html
+
+https://groups.google.com/g/tiruvalluvar/c/ppzpjKs1AG8?pli=1
