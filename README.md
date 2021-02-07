@@ -32,6 +32,7 @@ here 'tha,' 'dhim,' and 'jham' are onomatopoeic syllables that serve two functio
 - announce / keep up the time signature (i.e. "taal" in Hindi, "thalam" in Tamil and Telugu)
 
 Note that is a very classical / carnatic way of singing; represents classical music.
+Additional refs: https://raag-hindustani.com/Rhythm.html
 
 ------
 
