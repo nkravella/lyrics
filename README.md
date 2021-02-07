@@ -75,13 +75,13 @@ Note that is a very classical / carnatic way of singing; represents classical mu
 
 7 *Sa-la-sa-la sa-la-sa-la* = sounds / phrase generally used to describe 'flow' of water / trickling
 
-8 *Irattai kilavi*
+8 *Rettai kilavi*
 
-'irattai kilavi' literally means **is a linguistic doublet**
+'irattai (rettai) kilavi' literally means **is a linguistic doublet**
 
 9 *Tha-ga-tha-ga tha-ga-tha-ga* = sounds to describe 'shimmer'; a phrase commonly used to exaggrate the sheen of diamonds
 
-10 *Irattai kilavi*
+10 *Rettai kilavi*
 
 **"is a linguistic doublet"**
 
@@ -123,10 +123,76 @@ Note that is a very classical / carnatic way of singing; represents classical mu
 
 **Although there are two hearts** (idhayam = heart)
 
-*Kaadhal enbathu ondrallo*
+21 *Kaadhal enbathu ondrallo*
 
 **There's only one love...** (kaadhal = love)
 
 ------
 
 ## Verse 2
+
+22 *Andril paravai*
+
+**The 'Andril' bird** (ibis crane; demoiselle crane; a reference to the bird in Ramayana that doesn't exist without its twin) ref[https://groups.google.com/g/tiruvalluvar/c/ppzpjKs1AG8?pli=1]
+
+23 *Rettai piravi*
+
+**Only exist as twins / together*
+
+24 *Ondril ondraai*
+
+**Their entire lives**
+
+25 *Vaazhum piravi*
+
+**They live it together**
+
+26 *Piriyadhae vittu piriyadhae*
+
+**They cannot separate; they don't leave each other alone**
+
+27 *Kannum kannum*
+
+**The two eyes** (kannum = eye)
+
+28 *Rettai piravi*
+
+**Exist together**
+
+29 *Oru vizhi azhuthaal*
+
+**If one cries**
+
+30 *Iruvizhi aruvi*
+
+**The other does too (like a waterfall)**
+
+31 *Pozhiyadho...anbae vazhiyadho*
+
+**Wouldn't it pour? Wouldn't it spill?** (referring to the eyes as well as the protagonist's love?)
+
+*Dhi-na-ku dhi-na-ku dhi-na dhin-thin-naa naa-gi-ru-dha-ni dhon-gi-ru-dha-ni dhi-na-thom*
+
+32 *Oruvar thoongum thookathil*
+
+**Sleeping at night for one** (as one person)
+
+33 *Iruvar kanavugal kaanugirom*
+
+**But I'm dreaming as (for) two**
+
+34 *Oruvar vaangum suvaasathil*
+
+**Breathing in for one** (as one person)
+
+35 *Iruvar irudhayam vaazhugirom*
+
+**Living for two / two hearts exist in one body** (referring to herself as well as the simulation)
+
+36 *Thaavikolla mattum thaan*
+
+**But for the purpose of marriage** (thaavi = turmeric laced thread / necklace that formalizes the Hindu wedding ceremony)
+
+37 *Thani thaniyae thedugindrom*
+
+**We're seeking / searching separately**
