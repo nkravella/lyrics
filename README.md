@@ -124,7 +124,7 @@ Additional refs: https://raag-hindustani.com/Rhythm.html
 
 ------
 
-## Verse 2
+### Verse 2 (3:13 to 3:57)
 
 22 *Andril paravai*
 
@@ -191,3 +191,9 @@ Additional refs: https://raag-hindustani.com/Rhythm.html
 37 *Thani thaniyae thedugindrom*
 
 **We're seeking / searching separately**
+
+-----
+
+### Carnatic Bridge (3:58 to 4:32)
+
+### Back to Verse 1 (4:33 to 5:07)
