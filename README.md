@@ -72,13 +72,13 @@ Additional refs: https://raag-hindustani.com/Rhythm.html
 
 8 *Rettai kilavi*
 
-'irattai (rettai) kilavi' literally means **is a linguistic doublet**
+'irattai (rettai) kilavi' literally means **etymological twins**
 
 9 *Tha-ga-tha-ga tha-ga-tha-ga* = sounds to describe 'shimmer'; a phrase commonly used to exaggrate the sheen of diamonds
 
 10 *Rettai kilavi*
 
-**"is a linguistic doublet"**
+**are etymylogical twins**
 
 11 *Undallo, thamizhil undallo*
 
