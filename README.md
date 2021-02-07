@@ -7,6 +7,18 @@
 Tamil lyrics are written out in English, numbered, and *italicized*.
 Line translation follows and is in **bold**.
 
+**A few terms:**
+
+    Sapthaka ('saptha' = 7 + notes): sa ri ga ma pa dha ni (Latin --> do re mi fa so la ti).
+
+    Varnam (song structure) = pallavi (intro verse) --> anupallavi (fill) --> charanam (verses 2 & 3) --> chittha swara (acts as bridge).
+    
+    Swara: An abstract octave with variable frequencies and predefined intervals. Ragas are made of various swaras.
+
+    Chitta Swara: Ancient devotional embellishments meant to accompany ragas.
+
+    This song is composed within the framework of Raga Abheri. 
+
 ### Prelude (0:16 to 0:46)
 
 *Pa-pa-ni pa-ni pa-ma*
@@ -15,27 +27,17 @@ Line translation follows and is in **bold**.
 
 *Pa-ni pa-ma ga-ma-ga sa-ga-ma-pa*
 
-    Sapthaka ('saptha' = 7): sa ri ga ma pa dha ni (Latin --> do re mi fa so la ti)
-
-    Swara:
-
-    Chittai Swaras:
-
-    Raga Abheri:
-
-*Thagra-thagra-thagradhim thagra-thagra-thagradhim thagra-thagra-thagradhim thagajam*
+*Thagra-thagra-thagradhim thagra-thagra-thagradhim thagra-thagra-thagradhim thagajam* (x2)
 
 thagra = tha + ga + ra; thagradhim = thagra + dhim; thagajham = tha + ga + jham
 
-    here 'tha,' 'dhim,' and 'jham' are onomatopoeic syllables that serve two functions:
-    - let the percussionists know how to follow (i.e. with a "dhim" on the tabla, or a "jham" on the tambourine / cymbals)
-    - announce / keep up the time signature (i.e. "taal" in Hindi, "thalam" in Tamil and Telugu)
-
-Note that is a very classical / carnatic way of singing; represents classical music.
+    'tha,' 'dhim,' and 'jham' are onomatopoeic syllables that:
+    - let the percussionists know how to follow (i.e. with a "dhim" on the tabla, or a "jham" on the tanpura to create resonance)
+    - announce / reiterate the time signature (which is called "tal" in Hindi, "thalam" in Tamil and Telugu)
 
 ------
 
-### Verse 1 (0:47 to 1:15)
+### Verse 1 (0:47 to 1:15) ~ *Pallavi*
 
 1 *Kannodu kanbathellaam, thalaivaa!*
 
@@ -59,13 +61,13 @@ Note that is a very classical / carnatic way of singing; represents classical mu
 
 ------
 
-### Carnatic fill from prelude returns again (1:16 to 1:25)
+### Carnatic fill from prelude returns again (1:16 to 1:25) ~ *Anupallavi*
 
 6 *Thagra-thagra-thagradhim thagra-thagra-thagradhim thagra-thagra-thagradhim thagajam* (x2)
 
 ------
 
-### Verse 2 (1:54 to 2:52)
+### Verse 2 (1:54 to 2:52) ~ *Charanam*
 
 7 *Sa-la-sa-la sa-la-sa-la* = sounds / phrase generally used to describe 'flow' of water / trickling
 
@@ -99,11 +101,11 @@ Note that is a very classical / carnatic way of singing; represents classical mu
 
 16 *Iravum pagalum vanthaalum*
 
-**Although morning / dawn and night / dusk are separate events**
+**Although night (dusk) and morning are separate events**
 
 17 *Naal enbathu ondrallo*
 
-**The day is just one**
+**The day is just one / the day is the same**
 
 18 *Kaalgal irandu kondaalum*
 
@@ -123,7 +125,7 @@ Note that is a very classical / carnatic way of singing; represents classical mu
 
 ------
 
-### Verse 2 (3:13 to 3:57)
+### Verse 2 (3:13 to 3:57) ~ *Charanam*
 
 22 *Andril paravai*
 
@@ -185,7 +187,7 @@ Note that is a very classical / carnatic way of singing; represents classical mu
 
 36 *Thaavikolla mattum thaan*
 
-**But for the purpose of marriage** (thaavi = turmeric laced thread / necklace that formalizes the Hindu wedding ceremony)
+**But for the purpose of marriage...** (thaavi = turmeric laced thread tied around the woman's neck that formalizes the Hindu wedding ceremony)
 
 37 *Thani thaniyae thedugindrom*
 
@@ -193,7 +195,7 @@ Note that is a very classical / carnatic way of singing; represents classical mu
 
 -----
 
-### Carnatic Bridge (3:58 to 4:32)
+### Carnatic bridge (3:58 to 4:32)
 
 ### Back to Verse 1 (4:33 to 5:07)
 
