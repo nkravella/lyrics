@@ -1,11 +1,11 @@
-# Translation Notes for *Kannodu Kanbathellam*
+# Translation Notes for *Kannodu Kanbathellam* (1998)
 
-> Translated from Tamil by Neha Ravella for English 794
+> Translated from Tamil by Neha Ravella for English 794.
 
-Time-stamps in accordance with YouTube link: https://www.youtube.com/watch?v=HnW2737FkW8
+> Time-stamps from music video: https://www.youtube.com/watch?v=HnW2737FkW8
 
-Tamil lyrics are written out in English and *italicized*.
-Meaning (in English) is below the original and in **bold** for clarity.
+Tamil lyrics are written out in English, numbered, and *italicized*.
+Line translation follows and is in **bold**.
 
 ### Prelude (0:16 to 0:46)
 
@@ -15,21 +15,21 @@ Meaning (in English) is below the original and in **bold** for clarity.
 
 *Pa-ni pa-ma ga-ma-ga sa-ga-ma-pa*
 
-Sapthaka (octave) --> sa ri ga ma pa dha ni (Latin: do re mi fa so la ti)
+    Sapthaka ('saptha' = 7): sa ri ga ma pa dha ni (Latin --> do re mi fa so la ti)
 
-Swara -->
+    Swara:
 
-chittai swara -->
+    Chittai Swaras:
 
-raga abheri --> 
+    Raga Abheri:
 
 *Thagra-thagra-thagradhim thagra-thagra-thagradhim thagra-thagra-thagradhim thagajam*
 
 thagra = tha + ga + ra; thagradhim = thagra + dhim; thagajham = tha + ga + jham
 
-here 'tha,' 'dhim,' and 'jham' are onomatopoeic syllables that serve two functions:
-- let the percussionists know how to follow (i.e. with a "dhim" on the tabla, or a "jham" on the tambourine / cymbals)
-- announce / keep up the time signature (i.e. "taal" in Hindi, "thalam" in Tamil and Telugu)
+    here 'tha,' 'dhim,' and 'jham' are onomatopoeic syllables that serve two functions:
+    - let the percussionists know how to follow (i.e. with a "dhim" on the tabla, or a "jham" on the tambourine / cymbals)
+    - announce / keep up the time signature (i.e. "taal" in Hindi, "thalam" in Tamil and Telugu)
 
 Note that is a very classical / carnatic way of singing; represents classical music.
 Additional refs: https://raag-hindustani.com/Rhythm.html
@@ -96,7 +96,7 @@ Additional refs: https://raag-hindustani.com/Rhythm.html
 
 **They are two, but the two are one!**
 
-15 *Dhi-na-ku dhi-na-ku dhi-na dhin-thin-naa naa-gi-ru-dha-ni dhon-gi-ru-dha-ni dhi-na-thom* (Another carnatic vocal fill)
+15 *Dhi-na-ku dhi-na-ku dhi-na dhin-thin-naa naa-gi-ru-dha-ni dhon-gi-ru-dha-ni dhi-na-thom* (another carnatic vocal fill) (x2)
 
 16 *Iravum pagalum vanthaalum*
 
@@ -166,7 +166,7 @@ Additional refs: https://raag-hindustani.com/Rhythm.html
 
 **Wouldn't it pour? Wouldn't it spill?** (referring to the eyes as well as the protagonist's love?)
 
-*Dhi-na-ku dhi-na-ku dhi-na dhin-thin-naa naa-gi-ru-dha-ni dhon-gi-ru-dha-ni dhi-na-thom*
+*Dhi-na-ku dhi-na-ku dhi-na dhin-thin-naa naa-gi-ru-dha-ni dhon-gi-ru-dha-ni dhi-na-thom* (x2)
 
 32 *Oruvar thoongum thookathil*
 
