@@ -23,15 +23,9 @@ chittai swara -->
 
 raga abheri --> 
 
-------
-
-## Vocal Fill A
-
 *Thagra-thagra-thagradhim thagra-thagra-thagradhim thagra-thagra-thagradhim thagajam*
 
-thagra = tha + ga + ra
-thagradhim = thagra + dhim
-thagajham = tha + ga + jham
+thagra = tha + ga + ra; thagradhim = thagra + dhim; thagajham = tha + ga + jham
 
 here 'tha,' 'dhim,' and 'jham' are onomatopoeic syllables that serve two functions:
 - let the percussionists know how to follow (i.e. with a "dhim" on the tabla, or a "jham" on the tambourine / cymbals)
@@ -41,11 +35,11 @@ Note that is a very classical / carnatic way of singing; represents classical mu
 
 ------
 
-## Verse 1 (0:47 to 1:15)
+### Verse 1 (0:47 to 1:15)
 
 1 *Kannodu kanbathellaam, thalaivaa!*
 
-**All that is seen by the eyes, my lord / sir**
+**All that is seen by the eyes, my lord / sir!**
 
 2 *Kangalukku chondham-illai* (x2)
 
@@ -65,7 +59,7 @@ Note that is a very classical / carnatic way of singing; represents classical mu
 
 ------
 
-### Vocal Fill A; returns again (1:16 to 1:25)
+### Carnatic fill from prelude returns again (1:16 to 1:25)
 
 6 *Thagra-thagra-thagradhim thagra-thagra-thagradhim thagra-thagra-thagradhim thagajam* (x2)
 
@@ -101,7 +95,7 @@ Note that is a very classical / carnatic way of singing; represents classical mu
 
 **They are two, but the two are one!**
 
-15 *Dhi-na-ku dhi-na-ku dhi-na dhin-thin-naa naa-gi-ru-dha-ni dhon-gi-ru-dha-ni dhi-na-thom* (Another vocal fill repeated again in Verse 3)
+15 *Dhi-na-ku dhi-na-ku dhi-na dhin-thin-naa naa-gi-ru-dha-ni dhon-gi-ru-dha-ni dhi-na-thom* (Another carnatic vocal fill)
 
 16 *Iravum pagalum vanthaalum*
 
@@ -137,7 +131,7 @@ Note that is a very classical / carnatic way of singing; represents classical mu
 
 23 *Rettai piravi*
 
-**Only exist as twins / together*
+**Only exist together (i.e. as a pair)*
 
 24 *Ondril ondraai*
 
