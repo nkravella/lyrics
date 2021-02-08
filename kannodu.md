@@ -157,7 +157,7 @@ Line translation follows and is in **bold**.
 
 28 *Rettai piravi*
 
-**Exist together**
+**Exist together** ("rettai kilavi" becomes rettai piravi")
 
 29 *Oru vizhi azhuthaal*
 
@@ -183,7 +183,7 @@ Line translation follows and is in **bold**.
 
 34 *Oruvar vaangum suvaasathil*
 
-**Breathing in for one** (as one person)
+**Breathing in for one** (as one person) (suvaasa = breath; suvasaa leads to prana in yoga)
 
 35 *Iruvar irudhayam vaazhugirom*
 
