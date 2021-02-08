@@ -30,12 +30,14 @@ Line translation follows and is in **bold**.
 
 *Thagra-thagra-thagradhim thagra-thagra-thagradhim thagra-thagra-thagradhim thagajam* (x2)
 
-thagra = tha + ga + ra; thagradhim = thagra + dhim; thagajham = tha + ga + jham
+- thagra = tha + ga + ra
+- thagradhim = tha + ga + ra + dhim
+- thagajham = tha + ga + jham
 
-    'tha,' 'dhim,' and 'jham' are onomatopoeic syllables that:
-    - let the percussionists know how to follow
-      (i.e. with a "dhim" on the tabla, or a "jham" on the tanpura to create resonance)
-    - announce / reiterate the time signature (called "tal" in Hindi, "thalam" in Tamil and Telugu)
+      'tha,' 'dhim,' and 'jham' are onomatopoeic syllables that:
+      - let the percussionists know how to follow
+        (i.e. with a "dhim" on the tabla, or a "jham" on the tanpura to create resonance)
+      - announce / reiterate the time signature (called "tal" in Hindi, "thalam" in Tamil and Telugu)
 
 ------
 
