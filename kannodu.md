@@ -47,7 +47,7 @@ thagra = tha + ga + ra; thagradhim = thagra + dhim; thagajham = tha + ga + jham
 
 2 *Kangalukku chondham-illai* (x2)
 
-**Don't really belong to the eyes**
+**Don't truly belong to the eyes**
 
 3 *Kannodu maniyanaa yedhanaal*
 
