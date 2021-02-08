@@ -51,7 +51,7 @@ thagra = tha + ga + ra; thagradhim = thagra + dhim; thagajham = tha + ga + jham
 
 3 *Kannodu maniyanaa yedhanaal*
 
-**You have become a jewel in (of) my eyes**
+**You have become a jewel in (of) my eyes** = apple of my eye
 
 4 *Kannai vittu pirivadh-illai*
 
