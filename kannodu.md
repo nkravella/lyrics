@@ -11,7 +11,8 @@ Line translation follows and is in **bold**.
 
     Sapthaka ('saptha' = 7 + notes): sa ri ga ma pa dha ni (Latin --> do re mi fa so la ti).
 
-    Varnam (song structure) = pallavi (intro verse) --> anupallavi (fill) --> charanam (verses 2 & 3) --> chittha swara (acts as bridge).
+    Varnam (song structure) = pallavi (intro verse) --> anupallavi (fill / swara) --> charanam (verses 2 & 3)
+    --> chittha swara (acts as bridge).
     
     Swara: An abstract octave with variable frequencies and predefined intervals. Ragas are made of various swaras.
 
@@ -32,8 +33,9 @@ Line translation follows and is in **bold**.
 thagra = tha + ga + ra; thagradhim = thagra + dhim; thagajham = tha + ga + jham
 
     'tha,' 'dhim,' and 'jham' are onomatopoeic syllables that:
-    - let the percussionists know how to follow (i.e. with a "dhim" on the tabla, or a "jham" on the tanpura to create resonance)
-    - announce / reiterate the time signature (which is called "tal" in Hindi, "thalam" in Tamil and Telugu)
+    - let the percussionists know how to follow
+      (i.e. with a "dhim" on the tabla, or a "jham" on the tanpura to create resonance)
+    - announce / reiterate the time signature (called "tal" in Hindi, "thalam" in Tamil and Telugu)
 
 ------
 
